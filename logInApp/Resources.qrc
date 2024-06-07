@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img"/>
+    <qresource prefix="/">
+        <file>qt_login.jpeg</file>
+        <file>img/colorlib-login-form-06.jpg</file>
+    </qresource>
+</RCC>
