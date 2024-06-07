@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/ /img"/>
+    <qresource prefix="/">
+        <file>img/exit.png</file>
+        <file>img/exit_2.png</file>
+        <file>img/exit_3.png</file>
+        <file>img/new.png</file>
+        <file>img/open.png</file>
+        <file>img/save.png</file>
+        <file>img/save_as.png</file>
+    </qresource>
+</RCC>
